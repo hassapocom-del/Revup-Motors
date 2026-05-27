@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "title": "Chery Arrizo 5 (2025)",
+    "price_egp": 920000,
+    "engine": "1.5L 4-Cylinder",
+    "transmission": "CVT Automatic",
+    "power": "114 hp @ 6000 rpm",
+    "torque": "141 Nm @ 3800 rpm",
+    "fuel_economy": "6.5 L/100km",
+    "features": [
+      "Touchscreen Infotainment",
+      "Apple CarPlay/Android Auto",
+      "Rear Camera",
+      "ABS + EBD",
+      "Dual Airbags",
+      "Alloy Wheels"
+    ],
+    "description_long": "The Chery Arrizo 5 offers a sleek modern design combined with excellent value. Its spacious interior and efficient CVT transmission make it perfect for city commutes and long drives alike."
+  },
+  {
+    "id": 2,
+    "title": "Nissan Sunny (2025)",
+    "price_egp": 1100000,
+    "engine": "1.5L 4-Cylinder",
+    "transmission": "4-Speed Automatic",
+    "power": "108 hp @ 6000 rpm",
+    "torque": "134 Nm @ 4000 rpm",
+    "fuel_economy": "6.9 L/100km",
+    "features": [
+      "Automatic Climate Control",
+      "Smart Key System",
+      "ABS with EBD",
+      "Driver Airbag",
+      "15-inch Steel Wheels",
+      "AM/FM Radio"
+    ],
+    "description_long": "Renowned for its bulletproof reliability and low maintenance costs, the Nissan Sunny is a favorite in Egypt. The 2025 model adds subtle styling updates and improved fuel efficiency."
+  },
+  {
+    "id": 3,
+    "title": "Renault Taliant (2025)",
+    "price_egp": 850000,
+    "engine": "1.0L Turbo 3-Cylinder",
+    "transmission": "CVT Automatic",
+    "power": "100 hp @ 5000 rpm",
+    "torque": "160 Nm @ 2750 rpm",
+    "fuel_economy": "5.5 L/100km",
+    "features": [
+      "8-inch Touchscreen",
+      "Wireless Apple CarPlay",
+      "Rear Parking Sensors",
+      "Electronic Stability Control",
+      "Hill Start Assist",
+      "LED Daytime Running Lights"
+    ],
+    "description_long": "The Renault Taliant brings European flair to the compact sedan segment. With a turbocharged engine and CVT gearbox, it delivers responsive performance and outstanding fuel economy."
+  },
+  {
+    "id": 4,
+    "title": "Fiat Tipo (2025)",
+    "price_egp": 850000,
+    "engine": "1.4L 4-Cylinder",
+    "transmission": "6-Speed Automatic",
+    "power": "95 hp @ 6000 rpm",
+    "torque": "127 Nm @ 4500 rpm",
+    "fuel_economy": "6.7 L/100km",
+    "features": [
+      "Uconnect 7-inch Display",
+      "Bluetooth Connectivity",
+      "Cruise Control",
+      "Tyre Pressure Monitoring",
+      "Front and Side Airbags",
+      "15-inch Alloy Wheels"
+    ],
+    "description_long": "The Fiat Tipo combines elegant Italian design with everyday practicality. Its comfortable ride and spacious cabin make it an excellent family car at an affordable price."
+  },
+  {
+    "id": 5,
+    "title": "Hyundai Accent RB (2025)",
+    "price_egp": 1150000,
+    "engine": "1.6L 4-Cylinder",
+    "transmission": "6-Speed Automatic",
+    "power": "123 hp @ 6300 rpm",
+    "torque": "154 Nm @ 4200 rpm",
+    "fuel_economy": "6.9 L/100km",
+    "features": [
+      "8-inch Touchscreen Display",
+      "Rear View Camera",
+      "Apple CarPlay & Android Auto",
+      "ABS + ESC",
+      "Front & Rear Disc Brakes",
+      "16-inch Alloy Wheels"
+    ],
+    "description_long": "A trusted name in Egypt, the Hyundai Accent RB delivers proven performance and high resale value. The 2025 version adds more technology and safety features."
+  },
+  {
+    "id": 6,
+    "title": "BAIC U5 Plus (2025)",
+    "price_egp": 950000,
+    "engine": "1.5L 4-Cylinder",
+    "transmission": "CVT Automatic",
+    "power": "113 hp @ 6000 rpm",
+    "torque": "148 Nm @ 4000 rpm",
+    "fuel_economy": "6.2 L/100km",
+    "features": [
+      "Dual 12.3-inch Screens",
+      "360-degree Camera",
+      "Panoramic Sunroof",
+      "Keyless Entry & Start",
+      "Electronic Parking Brake",
+      "17-inch Alloy Wheels"
+    ],
+    "description_long": "The BAIC U5 Plus stands out with its tech-loaded cabin and bold design. It is ideal for city driving, offering a smooth CVT and a surprisingly spacious interior."
+  },
+  {
+    "id": 7,
+    "title": "Suzuki Ciaz (2024)",
+    "price_egp": 1000000,
+    "engine": "1.5L 4-Cylinder",
+    "transmission": "4-Speed Automatic",
+    "power": "104 hp @ 6000 rpm",
+    "torque": "138 Nm @ 4400 rpm",
+    "fuel_economy": "6.8 L/100km",
+    "features": [
+      "SmartPlay Infotainment System",
+      "Automatic Climate Control",
+      "Push Button Start",
+      "ABS with EBD",
+      "Rear Parking Sensors",
+      "16-inch Alloy Wheels"
+    ],
+    "description_long": "The Suzuki Ciaz offers a spacious interior and excellent comfort for long drives. Its economical engine and smooth ride make it a sensible choice."
+  },
+  {
+    "id": 8,
+    "title": "MG ZS (2026)",
+    "price_egp": 1400000,
+    "engine": "1.5L Turbo 4-Cylinder",
+    "transmission": "6-Speed Automatic",
+    "power": "160 hp @ 5600 rpm",
+    "torque": "250 Nm @ 1700-4400 rpm",
+    "fuel_economy": "7.2 L/100km",
+    "features": [
+      "10.1-inch Touchscreen",
+      "Panoramic Sunroof",
+      "LED Headlights & Taillights",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "18-inch Diamond-Cut Wheels"
+    ],
+    "description_long": "The MG ZS impresses with its premium design and strong turbocharged performance. Packed with advanced tech and safety features, it redefines the compact SUV segment."
+  },
+  {
+    "id": 9,
+    "title": "Hyundai Elantra CN7 (2025)",
+    "price_egp": 1150000,
+    "engine": "1.6L 4-Cylinder",
+    "transmission": "6-Speed Automatic",
+    "power": "126 hp @ 6300 rpm",
+    "torque": "155 Nm @ 4500 rpm",
+    "fuel_economy": "6.5 L/100km",
+    "features": [
+      "10.25-inch Digital Cockpit",
+      "Wireless Phone Charger",
+      "Ventilated Front Seats",
+      "Blind-Spot Collision Warning",
+      "Smart Cruise Control",
+      "17-inch Alloy Wheels"
+    ],
+    "description_long": "With its sporty fastback design and digital cockpit, the Hyundai Elantra CN7 offers a premium driving experience. It's loaded with comfort and safety features."
+  },
+  {
+    "id": 10,
+    "title": "Toyota Corolla (2026)",
+    "price_egp": 1450000,
+    "engine": "1.6L 4-Cylinder",
+    "transmission": "CVT Automatic",
+    "power": "120 hp @ 6000 rpm",
+    "torque": "154 Nm @ 5200 rpm",
+    "fuel_economy": "5.9 L/100km",
+    "features": [
+      "Toyota Safety Sense",
+      "9-inch Touchscreen",
+      "Dual-Zone Climate Control",
+      "Rear Cross Traffic Alert",
+      "Adaptive Headlights",
+      "17-inch Alloy Wheels"
+    ],
+    "description_long": "The legendary Toyota Corolla continues to set the standard for reliability. The 2026 model features a refined hybrid option and a meticulously crafted interior."
+  }
+]

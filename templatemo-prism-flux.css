@@ -1304,6 +1304,9 @@ a.info-item {
   font-size: 14px;
   transition: all 0.3s ease;
 }
+/* .info-text p a {
+
+} */
 
 .info-item:hover .info-text p {
   color: var(--text-primary);

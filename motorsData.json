@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Toyota Corolla 2025",
+    "category": "B",
+    "price_egp": 1450000,
+    "image": "images/Toyota Corolla (2026).webp"
+  },
+  {
+    "name": "BMW 3 Series 2025",
+    "category": "A",
+    "price_egp": 4100000,
+    "image": "images/BMW-3-Series-Exterior-2501.webp"
+  },
+  {
+    "name": "Mercedes-Benz C-Class 2025",
+    "category": "A",
+    "price_egp": 4600000,
+    "image": "images/24-Mercedes-Benz-C-Class-akron.jpg"
+  },
+  {
+    "name": "Hyundai Elantra 2025",
+    "category": "C",
+    "price_egp": 1150000,
+    "image": "images/Hyundai Elantra CN7 (2025).webp"
+  },
+  {
+    "name": "Nissan Sunny 2025",
+    "category": "C",
+    "price_egp": 1100000,
+    "image": "images/Nissan Sunny (2025).webp"
+  },
+  {
+    "name": "Kia K5 2025",
+    "category": "C",
+    "price_egp": 1100000,
+    "image": "images/2025-kia-k5-103-65c52244650c2.jpg"
+  },
+  {
+    "name": "Chery Arrizo 5 2025",
+    "category": "D",
+    "price_egp": 920000,
+    "image": "images/Chery Arrizo 5 (2025).webp"
+  },
+  {
+    "name": "Fiat Tipo 2025",
+    "category": "D",
+    "price_egp": 850000,
+    "image": "images/Fiat Tipo (2025).webp"
+  },
+  {
+    "name": "Volkswagen Tiguan 2025",
+    "category": "B",
+    "price_egp": 2000000,
+    "image": "images/aCx9aSdWJ-7kSWE-_VolkswagenTiguan2025exteriorfrontviewdrivinghero.jpg"
+  },
+  {
+    "name": "Ford Mustang 2025",
+    "category": "A",
+    "price_egp": 3500000,
+    "image": "images/Ford Mustang 2025.jpg"
+  },
+  {
+    "name": "Renault Taliant 2025",
+    "category": "D",
+    "price_egp": 850000,
+    "image": "images/Renault Taliant (2025).jpg"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Chery Arrizo 5 (2025)",
+    "description": "Highlights: Sleek design, modern infotainment, strong value for money.",
+    "image": "images/Chery Arrizo 5 (2025).webp",
+    "tech": ["Engine: 1.5L", "Transmission: CVT", "Power: 114 hp"]
+  },
+  {
+    "id": 2,
+    "title": "Nissan Sunny (2025)",
+    "description": "Reliable, low maintenance, very popular in Egypt.",
+    "image": "images/Nissan Sunny (2025).webp",
+    "tech": ["Engine: 1.5L", "Transmission: Automatic", "Power: 108 hp"]
+  },
+  {
+    "id": 3,
+    "title": "Renault Taliant (2025)",
+    "description": "Modern interior, great fuel efficiency, stylish European feel.",
+    "image": "images/Renault Taliant (2025).jpg",
+    "tech": ["Engine: 1.0L Turbo", "Transmission: CVT", "Power: 100 hp"]
+  },
+  {
+    "id": 4,
+    "title": "Fiat Tipo (2025)",
+    "description": "Elegant look, comfortable ride, practical family car.",
+    "image": "images/Fiat Tipo (2025).webp",
+    "tech": ["Engine: 1.4L", "Transmission: Automatic", "Power: 95 hp"]
+  },
+  {
+    "id": 5,
+    "title": "Hyundai Accent RB (2025)",
+    "description": "Proven performance, trusted brand, great resale value.",
+    "image": "images/Hyundai Accent RB (2025).webp",
+    "tech": ["Engine: 1.6L", "Transmission: Automatic", "Power: 123 hp"]
+  },
+  {
+    "id": 6,
+    "title": "BAIC U5 Plus (2025)",
+    "description": "Tech-loaded cabin, bold design, ideal for city driving.",
+    "image": "images/BAIC U5 Plus (2025).webp",
+    "tech": ["Engine: 1.5L", "Transmission: CVT", "Power: 113 hp"]
+  },
+  {
+    "id": 7,
+    "title": "Suzuki Ciaz (2024)",
+    "description": "Spacious interior, economical, great comfort for long drives.",
+    "image": "images/Suzuki Ciaz (2024).webp",
+    "tech": ["Engine: 1.5L", "Transmission: Automatic", "Power: 104 hp"]
+  },
+  {
+    "id": 8,
+    "title": "MG ZS (2026)",
+    "description": "Premium design, strong tech features, modern LED lighting.",
+    "image": "images/MG ZS (2026).webp",
+    "tech": ["Engine: 1.5L Turbo", "Transmission: Automatic", "Power: 160 hp"]
+  },
+  {
+    "id": 9,
+    "title": "Hyundai Elantra CN7 (2025)",
+    "description": "Sporty design, digital cockpit, premium comfort.",
+    "image": "images/Hyundai Elantra CN7 (2025).webp",
+    "tech": ["Engine: 1.6L", "Transmission: Automatic", "Power: 126 hp"]
+  },
+  {
+    "id": 10,
+    "title": "Toyota Corolla (2026)",
+    "description": "Legendary reliability, hybrid option, refined interior.",
+    "image": "images/Toyota Corolla (2026).webp",
+    "tech": ["Engine: 1.6L", "Transmission: CVT", "Power: 120 hp"]
+  }
+]
