@@ -1625,7 +1625,8 @@ a.info-item {
   }
 
   .carousel-controls {
-    bottom: -60px;
+    position: absolute;
+    bottom: 0px;
     gap: 15px;
   }
 

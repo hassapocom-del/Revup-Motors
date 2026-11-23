@@ -65,7 +65,6 @@ function createCarouselItem(data, index) {
       `;
       return item;
     }
-    // <button class="card-cta" onclick="scrollToSection('about')">Explore</button>
     
 function initCarousel() {
   // Clear previous items (important if reinitialized)
@@ -185,6 +184,7 @@ function initMotorsGrid() {
     filteredMotors.forEach((motor, index) => {
       const hexagon = document.createElement("div");
       hexagon.className = "motors-hexagon";
+      hexagon.id = motor.name;
       hexagon.style.animationDelay = `${index * 0.1}s`;
 
       // Format price with EGP, no dollar sign
